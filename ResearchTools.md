@@ -3,7 +3,7 @@
 ## Basic Skills
 
 ### GitHub
-- Learn basic [GitHub skills]{https://guides.github.com/activities/hello-world/} from an excellent tutorial : fork, pull, merge
+- Learn basic [GitHub skills](https://guides.github.com/activities/hello-world/) from an excellent tutorial : fork, pull, merge
 
 ### Unix/Linux
 
