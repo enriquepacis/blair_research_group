@@ -47,8 +47,8 @@ $ pip3 install --user ase
 ### Theory
 
 Some introductory texts I've found helpful:
-1. C. Cramer, [Essentials of Computational Chemistry: Theories and Models (2nd Edition)](https://www.amazon.com/Essentials-Computational-Chemistry-Theories-Models/dp/0470091827), John Wiley & Sons, Hoboken NJ (2004)
+1. C. Cramer, [Essentials of Computational Chemistry: Theories and Models (Second Edition)](https://www.amazon.com/Essentials-Computational-Chemistry-Theories-Models/dp/0470091827), John Wiley & Sons, Hoboken NJ (2004)
 
 On my reading list:
-1. Szabo and Ostlund, [Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory](https://www.amazon.com/Modern-Quantum-Chemistry-Introduction-Electronic/dp/0486691861)
+1. Szabo and Ostlund, [Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory (First Revised Edition)](https://www.amazon.com/Modern-Quantum-Chemistry-Introduction-Electronic/dp/0486691861), Dover (1996)
 
