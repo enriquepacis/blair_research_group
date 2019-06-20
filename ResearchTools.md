@@ -33,6 +33,12 @@ Some excellent ASE resources:
 ```bash
 $ pip3 install ase
 ```
+
+If you're not an administrator on a high-performance computing cluster, you may have to ask them to install ASE, or you might get away with installing it only for yourself by typing
+```bash
+$ pip3 install --user ase
+```
+
 3. Read John Kitchin's [book on DFT Calculations using ASE](https://github.com/jkitchin/dft-book). This book uses ASE as a front-end for VASP, but it has a great section on making crystals and molecules using ASE, which is VASP-independent.
 4. The [Espresso-ASE](https://wiki.fysik.dtu.dk/ase/ase/calculators/espresso.html) interface documentation.
 
