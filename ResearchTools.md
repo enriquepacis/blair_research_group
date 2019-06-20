@@ -29,6 +29,7 @@ Why ASE? ASE is a Python front end for chemical calculation platforms such as VA
 
 Some excellent ASE resources:
 1. [ASE Documentation](https://wiki.fysik.dtu.dk/ase/).
+
 2. Install ASE from [GitHub](https://gitlab.com/ase/ase), or, better yet, after you have Python 3 installed on a UNIX/Linux system, use
 ```bash
 $ pip3 install ase
@@ -40,9 +41,10 @@ $ pip3 install --user ase
 ```
 
 3. Read John Kitchin's [book on DFT Calculations using ASE](https://github.com/jkitchin/dft-book). This book uses ASE as a front-end for VASP, but it has a great section on making crystals and molecules using ASE, which is VASP-independent.
+
 4. The [Espresso-ASE](https://wiki.fysik.dtu.dk/ase/ase/calculators/espresso.html) interface documentation.
 
-
+5. [*The* paper](https://iopscience.iop.org/article/10.1088/1361-648X/aa680e) on ASE. This is ASE canon right here.
 
 ### Theory
 
