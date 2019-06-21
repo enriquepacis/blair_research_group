@@ -9,14 +9,23 @@
 
 ### LaTeX/LyX
 
+1. [LaTeX - Introductory Playlist](https://www.youtube.com/playlist?list=PLSnC4a32tFDpvPrKNEpu1VYQ5PR55QXy0) by E.P. Blair
+
+2. [LyX - Introductory Playlist](https://www.youtube.com/playlist?list=PLSnC4a32tFDrVdmLsQVkAwY5TtOvj83FU) by E.P. Blair
+
 
 ## Advanced Skills
 
 ### MATLAB
 
-### Octave
+1. [Intro to MATLAB Booklet](https://github.com/enriquepacis/MATLABIntro) by E.P. Blair
+
+2. [Intro to Object-oriented Programming in MATLAB](https://github.com/enriquepacis/MATLAB_OOP_booklet) by E.P. Blair
 
 ### Mathematica
+
+1. [Intro to Mathematica](https://www.youtube.com/watch?v=IQBT29jXLGg&list=PLSnC4a32tFDqBNVkr_1BfIPTXQreWExOu) playlist by E.P. Blair
+
 ### Python
 
 ## Density Functional Theory - Software
@@ -27,7 +36,7 @@ Why ASE? ASE is a Python front end for chemical calculation platforms such as VA
 1. Simplicity. Many DFT platforms require complex text input files, and they output user-unfriendly text output files. ASE can manage the input and output files, and it has many well-developed algorithms for importing or creating complex atomic structures.
 2. Power. DFT calculations can be supercharged by ASE's Python interface, which allows iteration and visualization. Additionally, ASE can add checkpointing to calculations.
 
-Some excellent ASE resources:
+Some *excellent* ASE resources:
 1. [ASE Documentation](https://wiki.fysik.dtu.dk/ase/).
 
 2. Install ASE from [GitHub](https://gitlab.com/ase/ase), or, better yet, after you have Python 3 installed on a UNIX/Linux system, use
