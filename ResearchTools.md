@@ -46,6 +46,8 @@ $ pip3 install --user ase
 
 5. [*The* paper](https://iopscience.iop.org/article/10.1088/1361-648X/aa680e) on ASE. This is ASE canon right here.
 
+6. Tutorial: [Calculating the Formation Energies of Charged Defects](https://wiki.fysik.dtu.dk/gpaw/tutorials/defects/defects.html). This is a *very rich* ASE example, and it includes supercells, defects, and fairly complex calculations in ASE (with a GPAW calculator). It also has lots of great theoretical background on defect formation energies.
+
 ### Theory
 
 Some introductory texts I've found helpful:
