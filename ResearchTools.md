@@ -53,9 +53,24 @@ $ pip3 install --user ase
 
 4. The [Espresso-ASE](https://wiki.fysik.dtu.dk/ase/ase/calculators/espresso.html) interface documentation. This *includes a tutorial on calculating band structure diagrams*.
 
+Note: at this time, our interface between Python 3.7.2 and ASE and QE 6.3 is not working well. Possible solutions:
+- Try Python 3.6 instead
+- Use [GPAW](https://wiki.fysik.dtu.dk/gpaw/index.html) instead
+
 5. [*The* paper](https://iopscience.iop.org/article/10.1088/1361-648X/aa680e) on ASE. This is ASE canon right here.
 
 6. Tutorial: [Calculating the Formation Energies of Charged Defects](https://wiki.fysik.dtu.dk/gpaw/tutorials/defects/defects.html). This is a *very rich* ASE example, and it includes supercells, defects, and fairly complex calculations in ASE (with a GPAW calculator). It also has lots of great theoretical background on defect formation energies.
+
+### GPAW
+
+This appears to be an excellent, open-source, Python-based DFT calculator. It is built as a Python calculator for the ASE, so the GPAW-ASE integration is natural, and compatibility issues as in the ASE-ESPRESSO interface should be non-existent.
+
+1. There are many great GPAW tutorials available:
+  a. Calculate [band structure diagrams](https://wiki.fysik.dtu.dk/gpaw/exercises/band_structure/bands.html) (GPAW tutorial)
+  b. Calculating band-gap corrections
+  c. Calculate formation energies ([GPAW tutorial](https://wiki.fysik.dtu.dk/gpaw/tutorials/defects/defects.html), including defects, electrostatic correction terms, and chemical potentials)
+  d. More on building supercells ([ASE tutorial](https://wiki.fysik.dtu.dk/ase/tutorials/defects/defects.html), [VASP Blog by Dr. P. Larsson](https://www.nsc.liu.se/~pla/blog/2013/02/26/vaspsupercells/))
+  
 
 ### Theory
 
