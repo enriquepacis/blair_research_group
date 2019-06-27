@@ -66,10 +66,11 @@ Note: at this time, our interface between Python 3.7.2 and ASE and QE 6.3 is not
 This appears to be an excellent, open-source, Python-based DFT calculator. It is built as a Python calculator for the ASE, so the GPAW-ASE integration is natural, and compatibility issues as in the ASE-ESPRESSO interface should be non-existent.
 
 1. There are many great GPAW tutorials available:
-  a. Calculate [band structure diagrams](https://wiki.fysik.dtu.dk/gpaw/exercises/band_structure/bands.html) (GPAW tutorial)
-  b. Calculating band-gap corrections
-  c. Calculate formation energies ([GPAW tutorial](https://wiki.fysik.dtu.dk/gpaw/tutorials/defects/defects.html), including defects, electrostatic correction terms, and chemical potentials)
-  d. More on building supercells ([ASE tutorial](https://wiki.fysik.dtu.dk/ase/tutorials/defects/defects.html), [VASP Blog by Dr. P. Larsson](https://www.nsc.liu.se/~pla/blog/2013/02/26/vaspsupercells/))
+
+- Calculate [band structure diagrams](https://wiki.fysik.dtu.dk/gpaw/exercises/band_structure/bands.html) (GPAW tutorial)
+- Calculating band-gap corrections
+- Calculate formation energies ([GPAW tutorial](https://wiki.fysik.dtu.dk/gpaw/tutorials/defects/defects.html), including defects, electrostatic correction terms, and chemical potentials)
+- More on building supercells ([ASE tutorial](https://wiki.fysik.dtu.dk/ase/tutorials/defects/defects.html), [VASP Blog by Dr. P. Larsson](https://www.nsc.liu.se/~pla/blog/2013/02/26/vaspsupercells/))
   
 
 ### Theory
