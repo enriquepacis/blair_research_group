@@ -67,9 +67,10 @@ This appears to be an excellent, open-source, Python-based DFT calculator. It is
 
 1. There are many great GPAW tutorials available:
 
-- Calculate [band structure diagrams](https://wiki.fysik.dtu.dk/gpaw/exercises/band_structure/bands.html) (GPAW tutorial)
-- Calculating band-gap corrections
+- Calculate band structure diagrams ([GPAW tutorial](https://wiki.fysik.dtu.dk/gpaw/exercises/band_structure/bands.html))
+- Structural relaxation ([GPAW tutorial](https://wiki.fysik.dtu.dk/gpaw/tutorials/H2/optimization.html))
 - Calculate formation energies ([GPAW tutorial](https://wiki.fysik.dtu.dk/gpaw/tutorials/defects/defects.html), including defects, electrostatic correction terms, and chemical potentials)
+- Calculating band-gap corrections ([GPAW tutorial](https://wiki.fysik.dtu.dk/gpaw/exercises/gw/gw.html))
 - More on building supercells ([ASE tutorial](https://wiki.fysik.dtu.dk/ase/tutorials/defects/defects.html), [VASP Blog by Dr. P. Larsson](https://www.nsc.liu.se/~pla/blog/2013/02/26/vaspsupercells/))
   
 
