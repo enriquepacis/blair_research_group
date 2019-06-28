@@ -82,3 +82,26 @@ Some introductory texts I've found helpful:
 On my reading list:
 1. Szabo and Ostlund, [Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory (First Revised Edition)](https://www.amazon.com/Modern-Quantum-Chemistry-Introduction-Electronic/dp/0486691861), Dover (1996)
 
+
+### Writing
+Technical writing is one of the most important parts of our work as researchers. No matter how stunning the results, novel research will not matter to anyone unless it is clearly and insightfully communicated. This means making difficult concepts as clear as possible and laying out arguments and derivations in an organized manner. It also means not simply presenting data to the readers, but also giving them a clear and compelling interpretation. Here are some quick tips on writing papers:
+
+0. Have a clear concept of the story you're trying to tell. Even technical writing tells a story: it has a context, poses a problem, and identifies a solution.
+
+1. Write in the following order, which may seem counterintuitive, but can be quite helpful:
+- Start with the figures. Then add captions to each figure. When ordered, figures and captions will provide the structure of the manuscript. It will then be fleshed out with words.
+- When writing:
+  - Write the \it[Results] section first.
+  - Next, write the \it[Background] section. Having already written the results up, you can now provide only the background information necessary to convey the desired results: nothing more, and nothing less.
+  - Finally, write the introduction and the conclusion. The introduction should provide the context and tell the reader why this paper is significant. The conclusion should emphasize the take-aways from the manuscript.
+  - A \it[Discussion] section could be included that provides some analysis or synthesis of the results that is at a level that is not quite at the level of broad, concise overview provided by the conclusion.
+ 
+ 2. Be clear and purposeful.
+ - Each figure, paragraph, and sentence should have a purpose in the narrative.
+ - Each paragraph should have a topic sentence that provides that states the theme of its paragraph. Typically, this will be the first sentence. Supporting sentences will follow this and elaborate on the paragraph's topic by providing additional detail or information.
+ 
+ 3. Be concise.
+ - Avoid using too many words or run-on sentences. Run-on sentences may often be broken up into shorter sentences.
+ - Active verbs typically provide clarity and conciseness.
+
+2. 
