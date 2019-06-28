@@ -96,12 +96,17 @@ Technical writing is one of the most important parts of our work as researchers.
   - Finally, write the introduction and the conclusion. The introduction should provide the context and tell the reader why this paper is significant. The conclusion should emphasize the take-aways from the manuscript.
   - A \it[Discussion] section could be included that provides some analysis or synthesis of the results that is at a level that is not quite at the level of broad, concise overview provided by the conclusion.
  
- 2. Be clear and purposeful.
+2. Be clear and purposeful.
  - Each figure, paragraph, and sentence should have a purpose in the narrative.
  - Each paragraph should have a topic sentence that provides that states the theme of its paragraph. Typically, this will be the first sentence. Supporting sentences will follow this and elaborate on the paragraph's topic by providing additional detail or information.
  
- 3. Be concise.
+3. Be concise.
  - Avoid using too many words or run-on sentences. Run-on sentences may often be broken up into shorter sentences.
- - Active verbs typically provide clarity and conciseness.
+ - Active verbs typically provide clarity and conciseness. Passive verbs involve the some form of the verb "to be" (was, is, are, will be) and another verb. To make a passive verb active, eliminate the "to be" and simply use the other verb.
+   - Passive example: "B is shown by A."
+   - Active example: "A shows B."
+   
+4. Good figures are very important, because if used well, they can clearly convey your result. On the other hand, poorly-crafted figures can confuse the readers or mislead them. Here are some tips for figures.
+ - Make sure that text and legends are legible. Avoid using figure text much smaller than the text in the manuscript.
+ - A good caption begins with a sentence that tells the reader (clearly) what the figure means. Additional details can be provided after this opening sentence.
 
-2. 
