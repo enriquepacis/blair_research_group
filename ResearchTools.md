@@ -79,9 +79,9 @@ This appears to be an excellent, open-source, Python-based DFT calculator. It is
 1. Tutorials
   a. [Getting Started (Shanghai 2013)](https://www.quantum-espresso.org/resources/tutorials/shanghai-2013) - this tutorial has a great [Getting Started](https://www.quantum-espresso.org/resources/tutorials/shanghai-2013/getting-started/lecture1.pdf) lecture which gives a nice outline of the SCF process and an input file description. Also included are instructions on the exercises (note: the exercise code, I believe, comes with the QE software in the form of bash scripts which write input files and run calculations).
 2. Documentation
-  a. The [pw.x input file description](https://www.quantum-espresso.org/Doc/INPUT_PW.html) - a very useful reference with information on all the inputs to *pw.x*
+   - The [pw.x input file description](https://www.quantum-espresso.org/Doc/INPUT_PW.html) - a very useful reference with information on all the inputs to *pw.x*
 3. Pseudopotentials
-  a. The [Pseudopotential library](https://www.quantum-espresso.org/pseudopotentials) - find and download pseudopotentials here.
+   - The [Pseudopotential library](https://www.quantum-espresso.org/pseudopotentials) - find and download pseudopotentials here.
 
 
 ## Theory
