@@ -74,7 +74,19 @@ This appears to be an excellent, open-source, Python-based DFT calculator. It is
 - More on building supercells ([ASE tutorial](https://wiki.fysik.dtu.dk/ase/tutorials/defects/defects.html), [VASP Blog by Dr. P. Larsson](https://www.nsc.liu.se/~pla/blog/2013/02/26/vaspsupercells/))
   
 
-### Theory
+### Quantum ESPRESSO
+
+1. Tutorials
+  a. [Getting Started (Shanghai 2013)](https://www.quantum-espresso.org/resources/tutorials/shanghai-2013) - this tutorial has a great [Getting Started](https://www.quantum-espresso.org/resources/tutorials/shanghai-2013/getting-started/lecture1.pdf) lecture which gives a nice outline of the SCF process and an input file description. Also included are instructions on the exercises (note: the exercise code, I believe, comes with the QE software in the form of bash scripts which write input files and run calculations).
+2. Documentation
+  a. The [pw.x input file description](https://www.quantum-espresso.org/Doc/INPUT_PW.html) - a very useful reference with information on all the inputs to *pw.x*
+3. Pseudopotentials
+  a. The [Pseudopotential library](https://www.quantum-espresso.org/pseudopotentials) - find and download pseudopotentials here.
+
+
+## Theory
+
+### Textbooks
 
 Some introductory texts I've found helpful:
 1. C. Cramer, [Essentials of Computational Chemistry: Theories and Models (Second Edition)](https://www.amazon.com/Essentials-Computational-Chemistry-Theories-Models/dp/0470091827), John Wiley & Sons, Hoboken NJ (2004)
