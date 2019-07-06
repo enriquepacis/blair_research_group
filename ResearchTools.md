@@ -77,10 +77,10 @@ This appears to be an excellent, open-source, Python-based DFT calculator. It is
 
 GPAW requires some setup on Kodiak.
 1. Download the pseudopotentials. This is done as follows
-  1. On Kodiak, navigate to a place where you want to install the GPAW data files.
-  2. If you haven't already put ```module load python/3.7.2``` into your ```.bashrc``` file, load that module in the command line.
-  3. Now, use ```gpaw install-data```
-  4. Make note of the path to your installation data. For me, the installation created a folder ```gpaw-setups-0.9.20000```. Specifically, this is
+  A. On Kodiak, navigate to a place where you want to install the GPAW data files.
+  B. If you haven't already put ```module load python/3.7.2``` into your ```.bashrc``` file, load that module in the command line.
+  C. Now, use ```gpaw install-data```
+  D. Make note of the path to your installation data. For me, the installation created a folder ```gpaw-setups-0.9.20000```. Specifically, this is
   ```
   /ion/home/blaire/materials/gpaw/gpaw-setups-0.9.20000
   ```
