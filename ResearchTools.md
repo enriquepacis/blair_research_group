@@ -85,6 +85,7 @@ GPAW requires some setup on Kodiak.
   /ion/home/blaire/materials/gpaw/gpaw-setups-0.9.20000
   ```
 and this can be referenced more simply using the ```~``` shortcut for my personal space ```/ion/home/blaire```
+
 2. Add lines to your ```.bashrc``` file which creates some environment variables:
 ```bash
 export GPAW_SETUP_PATH=~/materials/gpaw/gpaw-setups-0.9.20000
