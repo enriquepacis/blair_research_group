@@ -73,6 +73,24 @@ This appears to be an excellent, open-source, Python-based DFT calculator. It is
 - Calculating band-gap corrections ([GPAW tutorial](https://wiki.fysik.dtu.dk/gpaw/exercises/gw/gw.html))
 - More on building supercells ([ASE tutorial](https://wiki.fysik.dtu.dk/ase/tutorials/defects/defects.html), [VASP Blog by Dr. P. Larsson](https://www.nsc.liu.se/~pla/blog/2013/02/26/vaspsupercells/))
   
+#### GPAW Setup
+
+GPAW requires some setup on Kodiak.
+1. Download the pseudopotentials. This is done as follows
+  1. On Kodiak, navigate to a place where you want to install the GPAW data files.
+  2. If you haven't already put ```module load python/3.7.2``` into your ```.bashrc``` file, load that module in the command line.
+  3. Now, use ```gpaw install-data```
+  4. Make note of the path to your installation data. For me, the installation created a folder ```gpaw-setups-0.9.20000```. Specifically, this is
+  ```
+  /ion/home/blaire/materials/gpaw/gpaw-setups-0.9.20000
+  ```
+and this can be referenced more simply using the ```~``` shortcut for my personal space ```/ion/home/blaire```
+2. Add lines to your ```.bashrc``` file which creates some environment variables:
+```bash
+export GPAW_SETUP_PATH=~/materials/gpaw/gpaw-setups-0.9.20000
+export OMP_NUM_THREADS=1
+```
+For more information on this, see the [GPAW installation instructions](https://wiki.fysik.dtu.dk/gpaw/install.html) (especially the "Environment Varibles" section)
 
 ### Quantum ESPRESSO
 
