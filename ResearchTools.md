@@ -80,11 +80,11 @@ GPAW requires some setup on Kodiak.
 - On Kodiak, navigate to a place where you want to install the GPAW data files.
 - If you haven't already put ```module load python/3.7.2``` into your ```.bashrc``` file, load that module in the command line after the prompt ($), like this:
 ```bash
-module load python/3.7.2
+$ module load python/3.7.2
 ```
 - Now, install the GPAW data using this command:
 ```bash
-gpaw install-data
+$ gpaw install-data
 ```
 - Make note of the path to your installation data. For me, the installation created a folder ```gpaw-setups-0.9.20000```. Specifically, this is
   ```
@@ -98,6 +98,66 @@ export GPAW_SETUP_PATH=~/materials/gpaw/gpaw-setups-0.9.20000
 export OMP_NUM_THREADS=1
 ```
 For more information on this, see the [GPAW installation instructions](https://wiki.fysik.dtu.dk/gpaw/install.html) (especially the "Environment Varibles" section)
+
+#### Running GPAW Calculations
+
+You must write a Python script to define a GPAW calculation, say, ```somescript.py```. Then, to run it on Baylor's Kodiak high-performance computing (HPC) cluster, you need a job submission script, say, ```launchGPAW.sh```. Assuming you know what your Python script looks like, I provide an example of a typical job submission script that I use:
+```bash
+#!/bin/bash
+#PBS -q batch
+#PBS -N py3_somejob
+#PBS -M enrique_blair@baylor.edu
+#PBS -m be
+#PBS -l nodes=1:ppn=18
+
+# Customize the following in the above code:
+#     - the number of nodes as necessary for your job requirements
+#     - the job name (here, "py3_somejob")
+#     - your e-mail address (or just delete that whole line. I'm not sure that works
+#       for me)
+
+inputScript=somescript.py
+# I define inputScript as a bash variable to make this script more easily reusable.
+# To run a different script, I simply change the name on the right-hand-side of the
+# assignment operator ("=").
+#
+# Often, the code below may be left unchanged, unless:
+#     - you want to perform a serial calculation (comment out the "mpiexec -n ..." line,
+#       uncomment the "python 3 < $inputScript ... line"
+#     - provide input variables to the parallelized job script. To do this, follow
+#       "$inputScript" by a space and provide a string for each variable you wish to
+#       supply as an input. The inputs can be accessed using "sys.argv[k]" in the
+#       Python script, where k is the number (1, 2, ... etc.) of the input you want
+#       to reference
+
+# load modules
+module load openmpi-gcc/2.0.1  # support for parallelism
+module load python/3.7.2       # ASE/GPAW is installed with Python 3.7.2 on Kodiak
+
+# Change to working directory
+echo Working directory is $PBS_O_WORKDIR
+cd $PBS_O_WORKDIR
+echo
+
+export numCores=`cat $PBS_NODEFILE | wc -l` # count the cores
+# verify requested resources
+echo "Requested processors: $numCores"
+# Identify assigned nodes
+echo "Node(s):"
+uniq $PBS_NODEFILE
+echo
+
+# Execution
+
+# python3 < $inputScript > $inputScript.out    # this is for serial calculations
+mpiexec -n $numCores gpaw-python $inputScript  # this is for parallel calculations
+```
+
+- For this to work, I recommend that ```somescript.py``` and ```launchGPAW.sh``` be in the same directory ("folder") on Kodiak.
+- To submit your job, simply navigate to the directory containing the scripts, and then type
+```bash
+$ qsub launchGPAW.sh
+```
 
 ### Quantum ESPRESSO
 
