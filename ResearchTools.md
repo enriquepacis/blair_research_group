@@ -110,16 +110,16 @@ You must write a Python script to define a GPAW calculation, say, ```somescript.
 #PBS -m be
 #PBS -l nodes=1:ppn=18
 
-# Customize the following in the above code:
-#     - the number of nodes as necessary for your job requirements
-#     - the job name (here, "py3_somejob")
-#     - your e-mail address (or just delete that whole line. I'm not sure that works
-#       for me)
-
 inputScript=somescript.py
 # I define inputScript as a bash variable to make this script more easily reusable.
 # To run a different script, I simply change the name on the right-hand-side of the
 # assignment operator ("=").
+#
+# Customize the above code for your account and your jobs. Change:
+#     - the number of nodes as necessary for your job requirements
+#     - the job name (here, "py3_somejob")
+#     - your e-mail address (or just delete that whole line. I'm not sure that works
+#       for me)
 #
 # Often, the code below may be left unchanged, unless:
 #     - you want to perform a serial calculation. To do this comment out the 
