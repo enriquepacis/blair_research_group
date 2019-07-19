@@ -122,9 +122,9 @@ inputScript=somescript.py
 # assignment operator ("=").
 #
 # Often, the code below may be left unchanged, unless:
-#     - you want to perform a serial calculation (comment out the "mpiexec -n ..." line,
-#       uncomment the "python 3 < $inputScript ... line"
-#     - provide input variables to the parallelized job script. To do this, follow
+#     - you want to perform a serial calculation. To do this comment out the 
+#       "mpiexec -n ..." line, and uncomment the "python 3 < $inputScript ..." line.
+#     - provide input variables to the parallelized execution. To do this, follow
 #       "$inputScript" by a space and provide a string for each variable you wish to
 #       supply as an input. The inputs can be accessed using "sys.argv[k]" in the
 #       Python script, where k is the number (1, 2, ... etc.) of the input you want
