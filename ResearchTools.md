@@ -16,6 +16,9 @@
 
 ## Advanced Skills
 
+### EMACS
+
+
 ### MATLAB
 
 1. [Intro to MATLAB Booklet](https://github.com/enriquepacis/MATLABIntro) by E.P. Blair
@@ -162,11 +165,11 @@ $ qsub launchGPAW.sh
 ### Quantum ESPRESSO
 
 1. Tutorials
-  a. [Getting Started (Shanghai 2013)](https://www.quantum-espresso.org/resources/tutorials/shanghai-2013) - this tutorial has a great [Getting Started](https://www.quantum-espresso.org/resources/tutorials/shanghai-2013/getting-started/lecture1.pdf) lecture which gives a nice outline of the SCF process and an input file description. Also included are instructions on the exercises (note: the exercise code, I believe, comes with the QE software in the form of bash scripts which write input files and run calculations).
+  1. [Getting Started (Shanghai 2013)](https://www.quantum-espresso.org/resources/tutorials/shanghai-2013) - this tutorial has a great [Getting Started](https://www.quantum-espresso.org/resources/tutorials/shanghai-2013/getting-started/lecture1.pdf) lecture which gives a nice outline of the SCF process and an input file description. Also included are instructions on the exercises (note: the exercise code, I believe, comes with the QE software in the form of bash scripts which write input files and run calculations).
 2. Documentation
-   - The [pw.x input file description](https://www.quantum-espresso.org/Doc/INPUT_PW.html) - a very useful reference with information on all the inputs to *pw.x*
+   1. The [pw.x input file description](https://www.quantum-espresso.org/Doc/INPUT_PW.html) - a very useful reference with information on all the inputs to *pw.x*
 3. Pseudopotentials
-   - The [Pseudopotential library](https://www.quantum-espresso.org/pseudopotentials) - find and download pseudopotentials here.
+   1. The [Pseudopotential library](https://www.quantum-espresso.org/pseudopotentials) - find and download pseudopotentials here.
 
 
 ## Theory
