@@ -16,10 +16,16 @@
 
 ## Advanced Skills
 
-### EMACS 
+### Emacs 
 
-1. org-mode.
-  1.  David O'Toole's [Org tutorial](https://orgmode.org/worg/org-tutorials/orgtutorial_dto.html).
+1. The best introduction to EMACS, and the best starting point is the help tutorial in EMACS. To use this on a Mac or Linux/UNIX machine:
+    1. Start emacs from the terminal by typing emacs in at the command prompt:
+    ```
+    $ emacs
+    ```
+    2. You should see a welcome screen to GNU Emacs that tells you how to get help. To fire up the tutorial, type ```C-h t```. This code means that you should hold ```CTRL``` and press the ```h``` key. Then press the ```t``` key.
+2. org-mode.
+    1. David O'Toole's [Org tutorial](https://orgmode.org/worg/org-tutorials/orgtutorial_dto.html).
 
 
 ### MATLAB
