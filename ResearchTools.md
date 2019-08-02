@@ -26,6 +26,8 @@
     2. You should see a welcome screen to GNU Emacs that tells you how to get help. To fire up the tutorial, type ```C-h t```. This code means that you should hold ```CTRL``` and press the ```h``` key. Then press the ```t``` key.
 2. org-mode.
     1. David O'Toole's [Org tutorial](https://orgmode.org/worg/org-tutorials/orgtutorial_dto.html).
+    2. Org-mode [reference card](https://orgmode.org/worg/orgcard.html)
+    3. [Python code blocks in org-mode](https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-python.html).
 
 
 ### MATLAB
