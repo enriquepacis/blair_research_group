@@ -16,7 +16,10 @@
 
 ## Advanced Skills
 
-### EMACS
+### EMACS 
+
+1. org-mode.
+  1.  David O'Toole's [Org tutorial](https://orgmode.org/worg/org-tutorials/orgtutorial_dto.html).
 
 
 ### MATLAB
