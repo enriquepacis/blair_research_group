@@ -15,7 +15,7 @@ Why learn computer programming? Because you are interested in ...
 
 1. Additional income. Computer programming is one of the highest-paying industries today.
 2. A flexible job. Computer programmers can work from any place where they have access to a computer network, and they can generally set their own hours.
-
+3. A beautiful and fun life-long mental exercise and discipline. I think of computer programming as an art and science of solving problems logically, and in a robust manner. I find few tasks as satisfying as writing smart, reusable code which accomplishes a task effectively and robustly. This is a fun exercise that can change the way you approach problems in all ways of life, as computer programming is an exercise in applied logic and problem-solving.
 Let us now further motivate your interests in computer programming,
 as well as uncover some of your personal interests and goals here so
 that you may better guide your learning and exploration into the world of
