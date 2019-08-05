@@ -1,0 +1,52 @@
+Learn Computer Programming -*- mode: org -*-
+
+* Welcome!
+
+Welcome to my website dedicated to all people everywhere who are interested
+in learning computer programming. This is a passion of mine, and I want to
+learn with you and from you, and share with you ways you can:
+
+1. Learn computer programming
+2. Monetize computer programming as a hobby, side job, or even a career.
+
+* Motivation
+
+Why learn computer programming? Because you are interested in ...
+
+1. Additional income. Computer programming is one of the highest-paying
+industries today.
+2. A flexible job. Computer programmers can work from any place where they
+have access to a computer network, and they can generally set their own
+hours.
+
+Let us now further motivate your interests in computer programming,
+as well as uncover some of your personal interests and goals here so
+that you may better guide your learning and exploration into the world of
+computer programming. To do this, I have compiled for you some videos
+that you can watch to help you think about how you might make use of
+computer programming.
+
+As you watch, ask your self some questions:
+1. How would you like to use computer programming? The answer to this can
+help you figure out what languages you should learn. One common answer is to
+learn web develpment. In that case, a new web developer should learn HTML,
+JavaScript, and CSS. People who are interested in automating tasks could
+consider the wildly-popular Python 3. Scientific programmers might want to
+learn Matlab or its open-source clone, octave. Video designers or animators
+may be interested in Python and Blender. Game designers might want to learn
+C#. iOS developers should learn Swift.
+
+** Videos
+*** TEDxRainer: [[https://youtu.be/FpMNs7H24X0]["Computer science is for everyone", Hadi Partovi]]
+*** [[https://youtu.be/THSSHUfSZjc]["How can I make a career change to programming?"]]
+*** [[https://youtu.be/62tsiY5j4_0]["My Story of Being a Self Taught Programmer ..."]]
+*** [[https://youtu.be/g9-OS0Pbg4I]["How To Transition Into Software Development ... From A ... Different Field"]]
+*** [[https://youtu.be/qZKvZzRynLE]["How To Teach Yourself to Code (ft. Quincy Larson)]].
+There are great tips here on what it takes to teach yourself programming.
+
+** Resources for Learning
+*** [[https://studio.code.org/courses][Learn Computer Science]] from [[https://code.org][code.org]].
+This is the link to their "courses" home. There are numerous activities
+for people of all ages and skill levels. I've never tried, these, but based
+on your interest, I might recommend:
+**** [[https://code.org/educate/weblab][weblab]] for Grades 7-9.
