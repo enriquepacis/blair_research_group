@@ -36,13 +36,17 @@ learn Matlab or its open-source clone, octave. Video designers or animators
 may be interested in Python and Blender. Game designers might want to learn
 C#. iOS developers should learn Swift.
 
+* Resoruces for Learning
+
 ** Videos
+*** [[https://youtu.be/iIfZV43j4UU][How to Teach Yourself Code (Specific Step)]]
 *** TEDxRainer: [[https://youtu.be/FpMNs7H24X0]["Computer science is for everyone", Hadi Partovi]]
 *** [[https://youtu.be/THSSHUfSZjc]["How can I make a career change to programming?"]]
 *** [[https://youtu.be/62tsiY5j4_0]["My Story of Being a Self Taught Programmer ..."]]
 *** [[https://youtu.be/g9-OS0Pbg4I]["How To Transition Into Software Development ... From A ... Different Field"]]
 *** [[https://youtu.be/qZKvZzRynLE]["How To Teach Yourself to Code (ft. Quincy Larson)]].
 There are great tips here on what it takes to teach yourself programming.
+
 
 ** Resources for Learning
 *** [[https://studio.code.org/courses][Learn Computer Science]] from [[https://code.org][code.org]].
