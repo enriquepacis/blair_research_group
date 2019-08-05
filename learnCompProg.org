@@ -30,18 +30,16 @@ As you watch, ask your self some questions:
 * Resoruces for Learning
 
 ** Videos
-There are great tips here on what it takes to teach yourself programming.
-Watch these videos to help you figure out where you can go with programming,
-what opportunities
+There are great tips here on what it takes to teach yourself programming. Watch these videos to help you figure out where you can go with programming and what opportunities you want to pursue/create for yourself.
 - Sylvester Morgan
-  - [[https://youtu.be/iIfZV43j4UU][How to Teach Yourself Code (Specific Step)]]
+  - [[https://youtu.be/iIfZV43j4UU][How to Teach Yourself Code (Specific Steps)]]
   - (Advanced discussion) [[https://youtu.be/_1wv7b_kHKk][Become a developer - must know topics for developers without a CS degree]]
   - [[https://youtu.be/HX6ckeZYQDg][Coding Bootcamp vs Degree vs Self-Taught (Best Method To Become A Developer?)]]
 - TEDxRainer: [[https://youtu.be/FpMNs7H24X0]["Computer science is for everyone", Hadi Partovi]]
 - [[https://youtu.be/THSSHUfSZjc]["How can I make a career change to programming?"]]
 - [[https://youtu.be/62tsiY5j4_0]["My Story of Being a Self Taught Programmer ..."]]
 - [[https://youtu.be/g9-OS0Pbg4I]["How To Transition Into Software Development ... From A ... Different Field"]]
-- [[https://youtu.be/qZKvZzRynLE]["How To Teach Yourself to Code (ft. Quincy Larson)]].
+- [[https://youtu.be/qZKvZzRynLE]["How To Teach Yourself to Code (ft. Quincy Larson)"]].
 
 
 
