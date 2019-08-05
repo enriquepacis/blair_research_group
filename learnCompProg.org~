@@ -24,14 +24,8 @@ that you can watch to help you think about how you might make use of
 computer programming.
 
 As you watch, ask your self some questions:
-1. How would you like to use computer programming? The answer to this can
-help you figure out what languages you should learn. One common answer is to
-learn web develpment. In that case, a new web developer should learn HTML,
-JavaScript, and CSS. People who are interested in automating tasks could
-consider the wildly-popular Python 3. Scientific programmers might want to
-learn Matlab or its open-source clone, octave. Video designers or animators
-may be interested in Python and Blender. Game designers might want to learn
-C#. iOS developers should learn Swift.
+1. How would you like to use computer programming?
+The answer to this can help you figure out what languages you should learn. One common answer is to learn web develpment. In that case, a new web developer should learn HTML, JavaScript, and CSS. People who are interested in automating tasks could consider the wildly-popular Python 3. Scientific programmers might want to learn Matlab or its open-source clone, octave. Video designers or animators may be interested in Python and Blender. Game designers might want to learn C#. iOS developers should learn Swift.
 
 * Resoruces for Learning
 
@@ -41,7 +35,8 @@ Watch these videos to help you figure out where you can go with programming,
 what opportunities
 - Sylvester Morgan
   - [[https://youtu.be/iIfZV43j4UU][How to Teach Yourself Code (Specific Step)]]
-  - [[https://youtu.be/_1wv7b_kHKk][Become a developer - must know topics for developers without a CS degree]]
+  - (Advanced discussion) [[https://youtu.be/_1wv7b_kHKk][Become a developer - must know topics for developers without a CS degree]]
+  - [[https://youtu.be/HX6ckeZYQDg][Coding Bootcamp vs Degree vs Self-Taught (Best Method To Become A Developer?)]]
 - TEDxRainer: [[https://youtu.be/FpMNs7H24X0]["Computer science is for everyone", Hadi Partovi]]
 - [[https://youtu.be/THSSHUfSZjc]["How can I make a career change to programming?"]]
 - [[https://youtu.be/62tsiY5j4_0]["My Story of Being a Self Taught Programmer ..."]]
@@ -50,6 +45,6 @@ what opportunities
 
 
 
-** Resources for Learning
+** Practice/Learn Computer Programming
 -  [[https://studio.code.org/courses][Learn Computer Science]] from [[https://code.org][code.org]]. This is the link to their "courses" home. There are numerous activities for people of all ages and skill levels. I've never tried, these, but based on your interest, I might recommend:
   - [[https://code.org/educate/weblab][weblab]] for Grades 7-9.
