@@ -41,7 +41,8 @@ Watch these videos to help you figure out where you can go with programming,
 what opportunities
 - Sylvester Morgan
   - [[https://youtu.be/iIfZV43j4UU][How to Teach Yourself Code (Specific Step)]]
-  - [[https://youtu.be/_1wv7b_kHKk][Become a developer - must know topics for developers without a CS degree]]
+  - (Advanced discussion) [[https://youtu.be/_1wv7b_kHKk][Become a developer - must know topics for developers without a CS degree]]
+  - [[https://youtu.be/HX6ckeZYQDg][Coding Bootcamp vs Degree vs Self-Taught (Best Method To Become A Developer?)]]
 - TEDxRainer: [[https://youtu.be/FpMNs7H24X0]["Computer science is for everyone", Hadi Partovi]]
 - [[https://youtu.be/THSSHUfSZjc]["How can I make a career change to programming?"]]
 - [[https://youtu.be/62tsiY5j4_0]["My Story of Being a Self Taught Programmer ..."]]
@@ -50,6 +51,6 @@ what opportunities
 
 
 
-** Resources for Learning
+** Practice/Learn Computer Programming
 -  [[https://studio.code.org/courses][Learn Computer Science]] from [[https://code.org][code.org]]. This is the link to their "courses" home. There are numerous activities for people of all ages and skill levels. I've never tried, these, but based on your interest, I might recommend:
   - [[https://code.org/educate/weblab][weblab]] for Grades 7-9.
