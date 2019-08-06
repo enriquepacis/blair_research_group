@@ -6,8 +6,11 @@ Welcome to my website dedicated to all people everywhere who are interested
 in learning computer programming. This is a passion of mine, and I want to
 learn with you and from you, and share with you ways you can:
 
-1. Learn computer programming
+1. Learn computer programming.
 2. Monetize computer programming as a hobby, side job, or even a career.
+3. Use computer programming to free yourself to do other things.
+
+Of course, the above concepts are not independent: your interest in them may have these concepts overlap considerably.
 
 * Motivation
 
