@@ -25,7 +25,7 @@ that you can watch to help you think about how you might make use of
 computer programming.
 
 As you watch, ask your self some questions:
-1. How would you like to use computer programming? The answer to this can help you figure out what languages you should learn. One common answer is to learn web develpment. In that case, a new web developer should learn HTML, JavaScript, and CSS. People who are interested in automating tasks could consider the wildly-popular Python 3. Scientific programmers might want to learn Matlab or its open-source clone, octave. Video designers or animators may be interested in Python and Blender. Game designers might want to learn C#. iOS developers should learn Swift.
+1. How would you like to use computer programming? The answer to this can help you figure out what languages you should learn. One common answer is to learn web develpment. In that case, a new web developer should learn HTML, [[https://www.javascript.com][JavaScript]], and CSS. People who are interested in automating tasks could consider the wildly-popular [[https://www.python.org][Python]]. Scientific programmers might want to learn [[https://www.mathworks.com/products/matlab.html][Matlab]] or its open-source clone, [[https://www.gnu.org/software/octave/][Octave]]. Video designers or animators may be interested in Python and [[https://www.blender.org][Blender]]. Game designers might want to learn C#. iOS developers should learn Swift, and mobile apps may be written in numerous other languages, like Python or JavaScript.
 2. What opportunities can you find or create to help you earn income from computer programming? It is helpful to have a goal in mind to help focus and direct your learning efforts. 
 
 * Resoruces for Learning
