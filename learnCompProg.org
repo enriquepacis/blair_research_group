@@ -53,6 +53,16 @@ Some practical tips here. You'll also encounter these in the videos, but I think
     - Build a website resume or curriculum vitae
     - Build a simple mobile app or game
 
+* How To Learn Computer Programming
+There are three major ways to learn computer programming:
+1. Formal education. This is the costliest way. Here, you pay for tuition at a college or university and textbooks and lab fees, and room and board, if necessary. As part of your curriculum, you take classes in which you learn the principles of computer programming and put them into practice. While costly, it can provide a solid foundation for programming, and it comes with mentoring (a professor and teaching assistants) as well as a community (classmates) and networking opportunities (programming-focused clubs, career fairs). This may also take a long time: two to five years, depending on your degree. Of course, you don't have to wait until you have a degree to program. A motivated student can be doing internships or developing apps and websites long before graduating. 
+2. Coding bootcamps. Typically not as costly as formal education, these are paid experiences that are designed to get students programming in a language in a matter of weeks or months. The price tag here can be a few thousand dollars. Perhaps some of the theory taught in formal education is skipped in favor of more practical concepts. Unfortunately, I have no experience with these, but I do know that recent years have seen a rapid explosion in the growth of bootcamp experiences.
+3. Self-teaching. This is typically the cheapest option in terms of cash, but the costliest in the sense that it requires the most personal dedication, diligence, and motivation. To be successful, you must carve out time each day to practice, and you must build your own community, and find mentors who can help guide/push you along. Here, you can leverage numerous free online resources, buy books, and study what you want to learn or what you think is important.
+
+In reality, you may employ a combination of these. Personally, my foundation is broad enough that when I need to learn new skills in programming, I can simply find a few tutorials or visit stackoverflow.com, skim for what's most relevant to my project, and get to work. Since each person has a different background, he or she will need to figure out what combinations of the above methods are best suited to meet his/her goals.
+
+Later, I'll tell you more about my personal story so you can see what worked for me.
+ 
 * Resoruces for Learning
 This section is under development. I plan to add new resources often.
 ** Videos
@@ -80,3 +90,13 @@ This is a very important section.
   - [[https://ryanstutorials.net/bash-scripting-tutorial/][Bash scripting]],
   - [[https://ryanstutorials.net/html-tutorial/][HTML]] and [[https://ryanstutorials.net/css-tutorial/][CSS]], as well as
   - other languages/concepts. I found his Bash tutorial very helpful, so I hope the others are helpful, also.
+* My Personal Journey
+I'll now tell you about my personal journey into computer programming. It's *a way*, not *the way* to learn computer programming. You should use this story as one perspective that can help you plot your own course to the use and mastery of computer programming.
+
+The short story is that I became a computer programmer through formal education, and that now I have enough experience to learn new skills and languages by looking up "how to ..." on Google/stackexchange.com. I was an electrical engineering student, and it was required for me to learn computer programming in Fortran90, C++, and MATLAB. Through years of research at the M.S. and Ph.D. level, I developed further mastery of MATLAB. This is my primary computer language. However, my knowledge of MATLAB is highly transferrable to Python, so that I can learn Python in a very piecemeal, task-driven manner. I look up "how to X in Python 3", and then I set out to do it.
+
+The longer story is that even before I got to college, I had a long history of fun programming experiences:
+- [[Terrapin Logo]] (age 10). I stayed part of the summer with cousins, and my uncle, an engineer, enrolled us in a week-long programming experience. We used a rudimentary drawing program (it looks like it's evolved much since then) called Terrapin Logo. This was my first experience at giving a computer instructions to perform a task. Instructions were typed in one at a time, I believe! I didn't really know what to think about computer programming at this time, but a seed of knowledge was planted.
+- [[https://en.wikipedia.org/wiki/BASIC][BASIC]] (age 11). In elementary school, we had weekly computer-lab experiences in BASIC. This was my first experience with writing a computer program: a pre-defined set of instructions that I give the computer. Instructions were numbered with "line numbers," so I could have the computer execute instructions and then skip backward or forward to specific lines. I began to have a faint impression of how this could be fun challenge in problem solving.
+- Spreadsheets (age 12). I saw an uncle using spreadsheets, and I was impressed by how they help manipulate large amounts of data easily. Repetitive tasks were made simple, analysis was as simple as writing a formula, and data was well-organized in a spreadsheet! I don't remember what program he was using.
+- [[https://en.wikipedia.org/wiki/Turbo_Pascal][Turbo Pascal]] (age 16). I took a high school elective in Turbo Pascal. I learned about variables, data types, and groups of instructions called "procedures." We made computer graphics, now my imagination was captivated by how powerful computer programming could be. There were endless possibilities! I obtained a copy of Turbo Pascal, installed it on our family's personal computer, and I had fun creating programs of my own. By this time, I had begun to grasp that this was an exacting discipline, and I was surprised to find that not everyone loved it. Some people did not like the precision with which programs had to be written, but that did not bother me at all.
