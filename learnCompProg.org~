@@ -6,8 +6,11 @@ Welcome to my website dedicated to all people everywhere who are interested
 in learning computer programming. This is a passion of mine, and I want to
 learn with you and from you, and share with you ways you can:
 
-1. Learn computer programming
+1. Learn computer programming.
 2. Monetize computer programming as a hobby, side job, or even a career.
+3. Use computer programming to free yourself to do other things.
+
+Of course, the above concepts are not independent: your interest in them may have these concepts overlap considerably.
 
 * Motivation
 
@@ -29,7 +32,7 @@ As you watch, ask your self some questions:
 2. What opportunities can you find or create to help you earn income from computer programming? It is helpful to have a goal in mind to help focus and direct your learning efforts. 
 
 * Resoruces for Learning
-
+This section is under development. I plan to add new resources often.
 ** Videos
 There are great tips here on what it takes to teach yourself programming. Watch these videos to help you figure out where you can go with programming and what opportunities you want to pursue/create for yourself.
 - Sylvester Morgan
@@ -45,5 +48,9 @@ There are great tips here on what it takes to teach yourself programming. Watch 
 
 
 ** Practice/Learn Computer Programming
+
+This is a very important section. Some brief tips here, that you'll also encounter in the videos.
+- Practice is vital. Like learning spoken languages, learning computer programming requires lots of practice. I recommend starting with one language at first. Get proficient, and you'll find that many of the concepts you learned for your first language are transferrable and will help you learn other languages.
+- Find a community of other people who also aspire to learn computer programming. People in community can encourage one another to push forward through difficulty and motivate one another to learn more. Also, they can share insights. Facing challenges often is best done with a community, and learning programming is no exception. The support and insight of others will likely be a key factor in learning computer programming.
 -  [[https://studio.code.org/courses][Learn Computer Science]] from [[https://code.org][code.org]]. This is the link to their "courses" home. There are numerous activities for people of all ages and skill levels. I've never tried, these, but based on your interest, I might recommend:
   - [[https://code.org/educate/weblab][weblab]] for Grades 7-9.
