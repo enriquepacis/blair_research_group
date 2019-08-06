@@ -31,6 +31,13 @@ As you watch, ask your self some questions:
 1. How would you like to use computer programming? The answer to this can help you figure out what languages you should learn. One common answer is to learn web develpment. In that case, a new web developer should learn HTML, [[https://www.javascript.com][JavaScript]], and CSS. People who are interested in automating tasks could consider the wildly-popular [[https://www.python.org][Python]]. Scientific programmers might want to learn [[https://www.mathworks.com/products/matlab.html][Matlab]] or its open-source clone, [[https://www.gnu.org/software/octave/][Octave]]. Video designers or animators may be interested in Python and [[https://www.blender.org][Blender]]. Game designers might want to learn C#. iOS developers should learn Swift, and mobile apps may be written in numerous other languages, like Python or JavaScript.
 2. What opportunities can you find or create to help you earn income from computer programming? It is helpful to have a goal in mind to help focus and direct your learning efforts. 
 
+* Tips
+Some brief tips here. You'll also encounter in the videos, but I think they are worth highlighting.
+- Practice is vital. Like learning spoken languages, learning computer programming requires lots of practice. I recommend starting with one language at first. Get proficient, and you'll find that many of the concepts you learned for your first language are transferrable and will help you learn other languages.
+- Find a community of other people who also aspire to learn computer programming. People in community can encourage one another to push forward through difficulty and motivate one another to learn more. Also, they can share insights. Facing challenges often is best done with a community, and learning programming is no exception. The support and insight of others will likely be a key factor in learning computer programming.
+- One of the best ways to learn is to teach. As a teacher, I've found that I develop the strongest grasp and the best insights into a subject or a skill when I teach others. This is another reason community is important: it provides opportunities to teach and share what you learned.
+- Better than teaching alone is teaching/mentoring others, and being mentored yourself. This holds true for all areas of life, I believe. When I was studying martial arts, I found that my progress was at its fastest when I studied under a teacher, and I myself was a teacher to others. Within a community of like-minded learners, you can find mentors for yourself, also.
+
 * Resoruces for Learning
 This section is under development. I plan to add new resources often.
 ** Videos
@@ -49,8 +56,7 @@ There are great tips here on what it takes to teach yourself programming. Watch 
 
 ** Practice/Learn Computer Programming
 
-This is a very important section. Some brief tips here, that you'll also encounter in the videos.
-- Practice is vital. Like learning spoken languages, learning computer programming requires lots of practice. I recommend starting with one language at first. Get proficient, and you'll find that many of the concepts you learned for your first language are transferrable and will help you learn other languages.
-- Find a community of other people who also aspire to learn computer programming. People in community can encourage one another to push forward through difficulty and motivate one another to learn more. Also, they can share insights. Facing challenges often is best done with a community, and learning programming is no exception. The support and insight of others will likely be a key factor in learning computer programming.
+This is a very important section.
+
 -  [[https://studio.code.org/courses][Learn Computer Science]] from [[https://code.org][code.org]]. This is the link to their "courses" home. There are numerous activities for people of all ages and skill levels. I've never tried, these, but based on your interest, I might recommend:
   - [[https://code.org/educate/weblab][weblab]] for Grades 7-9.
