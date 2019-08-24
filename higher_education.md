@@ -1,5 +1,10 @@
 # Higher Education
 
+Do you have children? Would you like to prepare them for adulthood? Higher education can be an important part of your child's future life.
+
+## My perspective
+I'm a first-generation college student - one whose parent's didn't attend any U.S. colleges or universities. While I lacked family role models and guidance to help me choose a career and navigate my way through the world of higher education, I was fortunate and blessed to find mentors and role models who showed me enough guidance to make it through. I survived education at a top-20 U.S. private university, and I eventually got a Ph.D. Also, I've taught and researched at very unique institutions (University of Notre Dame, U.S. Naval Academy, Baylor University) with some very well-prepared students. I've had the chance to see many things and trends that work well for young people, and other things that don't work so well.
+
 ## Is it worth it?
 Yes and no. It depends on how much the student (or his/her family) pays, and the reward the student benefits from this.
 
