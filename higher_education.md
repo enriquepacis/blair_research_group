@@ -26,6 +26,10 @@ On the other hand, I've met countless students studying field X because they had
 
 **Put me to the test.** Think about why you are in your profession. How did you get into that field? What influence did adult role models have in your life? Think about your family and friends. Have you seen children follow in the footsteps of their parents and adult friends?
 
+Personally, growing up, I never knew any stock brokers or investment bankers, so pursuing a career in fields like this never crossed my mind. On the other hand, I did have exposure to a scientist, for whom I worked as high school student; and I knew an electrical engineer. Is it surprising that I ended up getting a Ph.D. in electrical engineering, and I don't work on Wall Street? 
+
+In light of this, I recommend giving children exposure to a wide array of professionals from many different backgrounds.
+
 ## Education
 Take pride, ownership, and play an active role educating your children. **Consider educating your children as *your responsibility*, not the responsibility of your state or your nation.**  This can take many forms, from being a well-informed parent to being their educators themselves. I note that some of the sharpest students I've ever worked with were home-schooled.
 
@@ -48,7 +52,7 @@ There are great ways to save for your child's education. *This section is under 
 ## First-generation College Students
 First-generation college students (FGCS) are students whose parents did not go to college. It is widely-recognized that for these students to graduate successfully, they have more challenges to overcome than their non-FGCS peers.  First, the have no trusted adults or close role models who can tell them what to expect. A break-up with a sweetheart could motivate a FGCS student to quit college, whereas a non-FGCS student might have heard from parent(s) that these things are part of the experience. FGCS may not know how to navigate the world of university-level education as well as their non-FGCS peers, who have parents able to guide them through every challenge and decision they face. I am a FGCS who went on to eventually earn a Ph.D. in engineering, and I can attest to knowing very little and having very little family guidance as I went through college.
 
-There is a growing understanding of the needs of FGCS at universities across America, and many universities are building support structures for FGCS. I recommend that FGCS deliberately seek these resources out, as well as seek out older, successful, and trusted students who can mentor them along the way. On my own journey, I was mentored by my Navy ROTC upperclassmen and staff, who had a vested interest in seeing me graduate from college.
+There is a growing understanding of the needs of FGCS at universities across America, and many universities are building support structures for FGCS. I recommend that FGCS deliberately seek these resources out, as well as seek out older, successful, and trusted students who can mentor them along the way. On my own journey as a FGCS, I was mentored by my Navy ROTC upperclassmen and staff, who had a vested interest in seeing me graduate from college.
 
 ## Mental Health
 I recently heard from our university's counselling center that students seeking treatment at campus mental health facilities is on the rise (here's an [article about it](https://www.apa.org/advocacy/higher-education/mental-health/) from the American Psychological Association). Our counselling center identified as common stressors for young people:
