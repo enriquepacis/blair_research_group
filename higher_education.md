@@ -22,16 +22,25 @@ For individuals who are not as academically inclined, learning a skilled trade c
 ## Role Models
 When preparing children for college, it is helpful to allow them to interact with adults of numerous professional backgrounds. It has been my experience that young people who do not know or interact with professionals in certain industries don't think about careers in those industries. For example, children who don't know engineers typically don't become engineers.
 
-On the other hand, I've met countless students studying field X because they had parents, extended family, or family friends who were professionals in field X. Here, "X" could be engineering, military, medicine, finance, entrepeneurship, business, These adult professional role models enabled these children to imagine being of the same profession and encourage them to believe that they could and should study and prepare for a career of this type. While some students study in fields unrelated to the professions of family and friends, these students have been rare in my experience.
+On the other hand, I've met countless students studying field X because they had parents, extended family, or family friends who were professionals in field X. Here, "X" could be engineering, military, medicine, finance, entrepeneurship, business, or whatever. Adult professional role models enable children to imagine being of the same profession and encourage them to believe that they can and should study and prepare for a career of this type. While some students study in fields unrelated to the professions of family and friends, these students have been rare in my experience.
+
+*Put me to the test.* Think about why you are in your profession. How did you get into that field? What influence did adult role models have in your life? Think about your family and friends. Have you seen children follow in the footsteps of their parents and adult friends?
+
+## Education
+Take pride, ownership, and play an active role educating your children. Consider educating your children as *your responsibility*, not the responsibility of your state or your nation.  This can take many forms, from being a well-informed parent to being their educators themselves.
+
+1. Read to your children. One of the strongest indicators of academic success is exposure to the written word. Much research has been done on this, including [this work](https://www.washington.edu/news/2017/08/28/how-reading-and-writing-with-your-child-boost-more-than-just-literacy/) from the University of Washington.
+2. Share in hobbies, activities, and sports with your children. These not only provide bonding opportunities, but they also teach children the children about dealing with failure, learning from mistakes, overcoming obstacles, persistance, the value of practice and skill building, socialization, respect, competition, and so much more.
 
 
 # Paying for Education
 There are numerous ways to pay for education.
 
 ## Scholarships
+*This section is under construction.*
 
 ## Savings
-There are great ways to save for your child's education.
+There are great ways to save for your child's education. *This section is under construction.*
 
 
 # Challenges College Students Face
