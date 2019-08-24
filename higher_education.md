@@ -8,7 +8,7 @@ I'm a first-generation college student - one whose parent's didn't attend any U.
 ## Is it worth it?
 Yes and no. It depends on how much the student (or his/her family) pays, and the reward the student benefits from this.
 
-*In general, being more educated correlates to earning more income.* The U.S. Bureau of Labor Statistics (BLS) has a nice page on [the value of education](https://www.bls.gov/careeroutlook/2018/data-on-display/education-pays.htm). The trend is that the more education you have, the more money you'll bring home each month or each year. Given that it's expensive to raise a child in the U.S., I recommend earning as much as you can.
+*In general, being more educated correlates to earning more income.* The U.S. Bureau of Labor Statistics (BLS) has a nice page on [the value of education](https://www.bls.gov/careeroutlook/2018/data-on-display/education-pays.htm). The trend is that the more education you have, the more money you'll bring home each month or each year. Given that it's expensive to raise a child in the U.S., I recommend earning as much as possible. This means it's worth it to prepare your children as much as possible for higher education.
 
 "How much does a child cost?" you ask. Good question! The U.S. Department of Agriculture estimates [the cost of raising a child](https://www.usda.gov/media/blog/2017/01/13/cost-raising-child) for you.
 
