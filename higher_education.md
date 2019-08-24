@@ -38,7 +38,7 @@ Take pride, ownership, and play an active role educating your children. **Consid
 
 
 # Paying for Education
-To pay for education, key strategies include saving for education, and minimizing the cost of education.
+To avoid crushing student debt, key strategies include saving for education, and minimizing the cost of education. It is recommended to employ both tactics in both of these areas.
 
 ## Saving for Educational Expenses
 This section is under construction.
