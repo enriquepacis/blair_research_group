@@ -31,6 +31,11 @@ There are great ways to save for your child's education.
 
 # Challenges College Students Face
 
+## First-generation College Students
+First-generation college students (FGCS) are students whose parents did not go to college. It is widely-recognized that for these students to graduate successfully, they have more challenges to overcome than their non-FGCS peers.  First, the have no trusted adults or close role models who can tell them what to expect. A break-up with a sweetheart could motivate a FGCS student to quit college, whereas a non-FGCS student might have heard from parent(s) that these things are part of the experience. FGCS may not know how to navigate the world of university-level education as well as their non-FGCS peers, who have parents able to guide them through every challenge and decision they face. I am a FGCS who went on to eventually earn a Ph.D. in engineering, and I can attest to knowing very little and having very little family guidance as I went through college.
+
+There is a growing understanding of the needs of FGCS at universities across America, and many universities are building support structures for FGCS. I recommend that FGCS deliberately seek these resources out, as well as seek out older, successful, and trusted students who can mentor them along the way. On my own journey, I was mentored by my Navy ROTC upperclassmen and staff, who had a vested interest in seeing me graduate from college.
+
 ## Mental Health
 I recently heard from our university's counselling center that students seeking treatment at campus mental health facilities is on the rise (here's an [article about it](https://www.apa.org/advocacy/higher-education/mental-health/) from the American Psychological Association). Our counselling center identified as common stressors for young people:
 1. An inability to cope with failure. Contributing factors here could be grade inflation in earlier years of education, parents who immediately side with children whenever faced with disciplinary action by educators, the use of participation trophies, and numerous other causes. This is so common that now, universities are intentionally [training their students on failure](https://www.wsj.com/articles/failure-101-colleges-teach-students-how-to-cope-with-setbacks-11545129000).
