@@ -28,6 +28,7 @@
     1. David O'Toole's [Org tutorial](https://orgmode.org/worg/org-tutorials/orgtutorial_dto.html).
     2. Org-mode [reference card](https://orgmode.org/worg/orgcard.html)
     3. [Python code blocks in org-mode](https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-python.html).
+    4. [Emacs and Org Mode](https://github.com/enriquepacis/EmacsAndOrgMode/blob/master/EmacsAndOrgMode.org). This is my own set of notes on installing Emacs and using Org mode.
 
 
 ### MATLAB
